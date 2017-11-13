@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "617545459893",
+    "firebase_url": "https://alice-e29e5.firebaseio.com",
+    "project_id": "alice-e29e5",
+    "storage_bucket": "alice-e29e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617545459893:android:02a804227ef63487",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.alice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617545459893-rk1u3kf8b84k7j43m50fbv8qlv84uler.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.alice",
+            "certificate_hash": "5d2dce989308d4046a2cded85d6991d777c6b7e3"
+          }
+        },
+        {
+          "client_id": "617545459893-1nblf63fa8e2k7q9sa3f2uc4tof0fnd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTu75CMeAyNejEzv9eMlCOwQpRgftKMK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617545459893-1nblf63fa8e2k7q9sa3f2uc4tof0fnd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
